@@ -15,7 +15,7 @@
   - DATA : NOOM _ <눔코치> 고객 데이터 활용
   - 진행상황 : 완료
 <br><br>
-
+ 
 ### 03_Visualization <br>
   - 목표: 데이터 시각화를 통한 인사이트 도출 _ EDA 
   - DATA : DS스쿨 고객 데이터 활용
